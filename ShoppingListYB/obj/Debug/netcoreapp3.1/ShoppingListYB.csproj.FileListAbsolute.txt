@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\bin\Debug\netcoreapp3.1\ShoppingListYB.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\bin\Debug\netcoreapp3.1\ShoppingListYB.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\bin\Debug\netcoreapp3.1\ShoppingListYB.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\bin\Debug\netcoreapp3.1\ShoppingListYB.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\bin\Debug\netcoreapp3.1\ShoppingListYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\bin\Debug\netcoreapp3.1\ShoppingListYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\obj\Debug\netcoreapp3.1\ShoppingListYB.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\obj\Debug\netcoreapp3.1\ShoppingListYB.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\obj\Debug\netcoreapp3.1\ShoppingListYB.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\obj\Debug\netcoreapp3.1\ShoppingListYB.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\obj\Debug\netcoreapp3.1\ShoppingListYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\obj\Debug\netcoreapp3.1\ShoppingListYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\ShoppingListYB\ShoppingListYB\obj\Debug\netcoreapp3.1\ShoppingListYB.genruntimeconfig.cache
